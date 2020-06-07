@@ -14,9 +14,7 @@ If you do not wish to contribute to the online repository, please run the follow
 git clone https://github.com/Ravenclaw-OIer/project-nephren
 ```
 
-or, alternatively, you can **fork** this repository and clone the repository under your name, you can then do anything you want there.
-
-If you want your changes to be added to the main repository, open a **pull request**.
+or, alternatively, you can **fork** this repository and clone the repository under your name, you can then do anything you want there.If you want your changes to be added to the main repository, open a **pull request**.
 
 To **commit** your work, please do the following
 
@@ -29,4 +27,10 @@ If you forked this repository, you can also push to it by
 
 ```
 git push
+```
+
+To sync your copy of the repository with the online one, run
+
+```
+git pull
 ```
