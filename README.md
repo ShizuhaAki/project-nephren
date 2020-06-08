@@ -34,3 +34,7 @@ To sync your copy of the repository with the online one, run
 ```
 git pull
 ```
+
+## License
+
+See LICENSE file for more information
