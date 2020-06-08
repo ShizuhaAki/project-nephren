@@ -1,4 +1,4 @@
-# Project-Nephren
+# project-nephren
 
 Class Magazine of Innovative Class 2.
 
